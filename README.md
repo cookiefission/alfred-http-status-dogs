@@ -1,5 +1,5 @@
 # Alfred Http Status Dogs
 
-Workflow for open the relevant http status dogs.
+Workflow for opening the relevant http status dog.
 
 Shameless copy of https://github.com/JoelQ/alfred-http
