@@ -232,7 +232,7 @@ matches.each do |match|
   item << arg
 
   icon = REXML::Element.new("icon")
-  icon << REXML::Text.new("paw_print.png")
+  icon << REXML::Text.new("icon.png")
   item << icon
 
   doc.root << item
