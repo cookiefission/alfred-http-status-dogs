@@ -170,6 +170,11 @@ statuses = [
     :one_liner => "The server cannot meet the requirements of the Expect request-header field",
   },
   {
+    :status_code => "420",
+    :reason_phrase => "Enhance Your Calm",
+    :one_liner => " Returned by the Twitter Search and Trends API when the client is being rate limited. Likely a reference to this number’s association with marijuana",
+  },
+  {
     :status_code => "422",
     :reason_phrase => "Unprocessable Entity",
     :one_liner => "The request was well-formed but was unable to be followed due to semantic errors."
